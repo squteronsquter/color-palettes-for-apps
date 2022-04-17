@@ -2,4 +2,4 @@
 
 some sample color palettes for your next app
 
-(https://github.com/squteronsquter/color-palettes-for-apps/blob/main/assets/img/colors.50.webp)
+![My sample paletter colros image](https://raw.githubusercontent.com/squteronsquter/color-palettes-for-apps/main/assets/img/colors.50.webp)
